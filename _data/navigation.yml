@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: Optical Character Recognition
-  link: /ocr.html
+  link: https://msaxton.github.io/naps-dh-workshops-2021/ocr.html
 - name: Regular Expressions
-  link: regex.html
+  link: https://msaxton.github.io/naps-dh-workshops-2021/regex.html
 - name: Python
-  link: python.html
+  link: https://msaxton.github.io/naps-dh-workshops-2021/python.html
 - name: Natural Language Processing
-  link: nlp.html
+  link: https://msaxton.github.io/naps-dh-workshops-2021nlp.html
