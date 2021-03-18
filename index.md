@@ -19,7 +19,7 @@ In this workshop, we will learn the basics of Python. Python is a user-friendly 
      - Friday May 14 at 2:00pm (EST)
      - Saturday May 15 at 2:00pm (EST)
 
-## [Basics of Natural Language Processing](nlp.md)
+<h2><a href="{{ "/nlp.html" | relative_url }}">Basics of Natural Language Processing</a></h2>
 This workshop will introduce participants to the basics of Natural Language Processing (NLP) using a scripting language called Python. Topics covered will include: an overview of NLP, basics of NLP such as tokenization and lemmatization, Python libraries for implementing NLP, and analyzing texts with NLP. Workshop participants will be given the opportunity to get their hands dirty with this exciting approach to textual analysis. This workshop will prepare participants to do Natural Language Processing. This workshop will begin with a pre-recorded video and participants may attend one of two live follow-up sessions:
      - Friday May 21 at 2:00pm (EST)
      - Saturday May 22 at 11:00am (EST)
