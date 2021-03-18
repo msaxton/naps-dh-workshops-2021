@@ -1,5 +1,5 @@
 - name: Home
-  link: /
+  link: https://msaxton.github.io/naps-dh-workshops-2021/
 - name: Optical Character Recognition
   link: https://msaxton.github.io/naps-dh-workshops-2021/ocr.html
 - name: Regular Expressions
