@@ -1,10 +1,31 @@
-<nav>
-    {% for item in site.data.navigation %}
-        <div>
-        <a href="{{ item.link }}" {% if page.url==item.link %}class="current"{% endif %}>
-            {{ item.name }}
-        </a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+          <img src="/assets/images/NAPS50ne.jpg" alt="Logo" width="50">
+      </a> 
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Workshops
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="/ocr.html">Extracting Texts with Optical Character Recognition</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/regex.html">Using Regular Expressions to Cleanup Texts for Processing</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/python.html">Introduction to Python for Humanities Scholars</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/nlp.html">Basics of Natural Language Processing</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
     </div>
-    {% endfor %}
-</nav>
-<br>
+  </nav>
