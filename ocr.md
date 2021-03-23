@@ -2,6 +2,7 @@
 layout: default
 title: Extracting Texts with Optical Character Recognition
 author: Joel Kalvesmaki
+permalink: /ocr/
 ---
 # {{ page.title }} 
 #### Led by {{ page.author }}

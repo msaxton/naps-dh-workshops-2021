@@ -2,6 +2,7 @@
 layout: default
 title: Using Regular Expressions to Cleanup Texts for Processing
 author: Jamey Walters
+permalink: /regex/
 ---
 # {{ page.title }}
 #### Led by {{ page.author }}
