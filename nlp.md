@@ -2,6 +2,7 @@
 layout: default
 title: Basics of Natural Language Processing
 author: Micah Saxton
+permalink: /nlp/
 ---
 # {{ page.title }}
 #### Led by {{ page.author }}

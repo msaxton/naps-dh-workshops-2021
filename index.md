@@ -37,7 +37,7 @@ title: NAPS Digital Humanities Workshops 2021
       <div class="card-body">
         <h5 class="card-title">Basics of Natural Language Processing</h5>
         <p class="card-text">This workshop will introduce participants to the basics of Natural Language Processing (NLP) using a scripting language called Python. Topics covered will include: an overview of NLP, basics of NLP such as tokenization and lemmatization, Python libraries for implementing NLP, and analyzing texts with NLP. Workshop participants will be given the opportunity to get their hands dirty with this exciting approach to textual analysis. This workshop will prepare participants to do Natural Language Processing.</p>
-        <a href="nlp.html" class="btn btn-primary">Details</a>
+        <a href="/nlp/" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
