@@ -18,8 +18,18 @@ permalink: /regex/
 &nbsp;
 
 ## Workshop Videos:
-<iframe width="560" height="315" src="https://screencast-o-matic.com/watch/crebD3VcMes" frameborder="0"  allowfullscreen></iframe>
 &nbsp;
 
+### Part 1: What are regular expressions?
+<iframe width="560" height="315" src="https://screencast-o-matic.com/watch/crf2btVnBKR" frameborder="0"  allowfullscreen></iframe>
+&nbsp;
+
+### Part 2: Getting started with regex searches
+<iframe width="560" height="315" src="https://screencast-o-matic.com/watch/crf2bxVnBs5" frameborder="0"  allowfullscreen></iframe>
+&nbsp;
+
+### Part 3: Regex cleanup demo
+<iframe width="560" height="315" src="https://screencast-o-matic.com/watch/crf2FeVngcy" frameborder="0"  allowfullscreen></iframe>
+&nbsp;
 
 ## Live Session Zoom Links:
