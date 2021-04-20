@@ -32,4 +32,11 @@ permalink: /regex/
 <iframe width="560" height="315" src="https://screencast-o-matic.com/watch/crf2FeVngcy" frameborder="0"  allowfullscreen></iframe>
 &nbsp;
 
-## Live Session Zoom Links:
+## Live Hand-on Sessions
+
+Live, hands-on sessions are scheduled as follows:
+
+* Friday May 7, 11:00 a.m. Pacific / noon Mountain / 1:00 p.m. Central / 2:00 p.m. Eastern 
+* Saturday May 8, 8:00 a.m. Pacific / 9:00 a.m. Mountain / 10:00 a.m. Central / 11:00 a.m. Eastern 
+
+You may attend the first, the second, or both. A Zoom link to these sessions will be sent under separate cover.

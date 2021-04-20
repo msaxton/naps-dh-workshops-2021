@@ -36,6 +36,11 @@ Welcome to the Basics of Natural Language Processing workshop! On this page you 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ftes-SNwA6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-## Live Session Zoom Links:
-* Friday May 14 at 2:00pm (EST) (see below for Zoom link)
-* Saturday May 15 at 2:00pm (EST) (see below for Zoom link)
+## Live Hand-on Sessions
+
+Live, hands-on sessions are scheduled as follows:
+
+* Friday May 21, 11:00 a.m. Pacific / noon Mountain / 1:00 p.m. Central / 2:00 p.m. Eastern 
+* Saturday May 22, 8:00 a.m. Pacific / 9:00 a.m. Mountain / 10:00 a.m. Central / 11:00 a.m. Eastern
+
+You may attend the first, the second, or both. A Zoom link to these sessions will be sent under separate cover.

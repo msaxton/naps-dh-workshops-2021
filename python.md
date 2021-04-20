@@ -43,4 +43,12 @@ permalink: /python/
 ### Python 5
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_nSsVfX-QI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
-## Live Session Zoom Links:
+
+## Live Hand-on Sessions
+
+Live, hands-on sessions are scheduled as follows:
+
+* Friday May 14, 11:00 a.m. Pacific / noon Mountain / 1:00 p.m. Central / 2:00 p.m. Eastern 
+* Saturday May 15, 11:00 a.m. Pacific / noon Mountain / 1:00 p.m. Central / 2:00 p.m. Eastern 
+
+You may attend the first, the second, or both. A Zoom link to these sessions will be sent under separate cover.
