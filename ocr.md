@@ -21,6 +21,7 @@ During the live hands-on session, we will gather as a group, and help one anothe
 ## Workshop Videos:
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2N5UY3KCs0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
 
 ## Live Hand-on Sessions
 
