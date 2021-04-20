@@ -9,7 +9,7 @@ permalink: /python/
 
 
 ## Welcome
-
+ 
 
 &nbsp;    
 
