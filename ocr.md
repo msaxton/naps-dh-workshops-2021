@@ -19,9 +19,19 @@ During the live hands-on session, we will gather as a group, and help one anothe
 &nbsp;
 
 ## Workshop Videos:
+
+### Part 1: Welcome and Introduction
 &nbsp;
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2N5UY3KCs0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkxIwbJltDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Part 2: The OCR Process
 &nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4U1ffgxLTws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Part 3: Setting up a Workflow
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l75kl_r-pSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Live Hand-on Sessions
 
@@ -32,5 +42,5 @@ Live, hands-on sessions are scheduled as follows:
 
 You may attend the first, the second, or both. A Zoom link to these sessions will be sent under separate cover. 
 
-If you have certain texts or languages you want to work on, drop an email to kalvesmaki@gmail.com.
+If you have questions not addressed by the videos, or if you have certain scans or languages you want to see demonstrated, drop an email to kalvesmaki@gmail.com.
 
