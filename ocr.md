@@ -32,6 +32,9 @@ During the live hands-on session, we will gather as a group, and help one anothe
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l75kl_r-pSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Preliminary Questions and Answers
+
+Have any questions before we meet? Have an answer to contribute? Please join in at [our shared Q&A document](https://docs.google.com/document/d/1Tta4_kQISQjRjcjA5e5HFrNM1p5bGjBtix7OFGr2bgQ/edit?usp=sharing).
 
 ## Live Hand-on Sessions
 
